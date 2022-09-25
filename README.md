@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o95f2o9w9a5yabrn?svg=true)](https://ci.appveyor.com/project/UralHawkies/pattern2)
